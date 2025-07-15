@@ -1,8 +1,3 @@
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-}
-
 .container {
   display: flex;
   height: 100vh;
@@ -92,10 +87,6 @@ body {
   background: #fff;
   padding: 15px;
   border-radius: 6px;
-}
-
-.workflow h3 {
-  margin-top: 0;
 }
 
 .workflow select,
